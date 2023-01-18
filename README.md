@@ -1,15 +1,15 @@
 # My-Password-generator-ch3
 
 ## Description
-This webpage was refactored to make it more accessible and was optimized for search engines. Some links were repaired to function properly. The CSS was reworked by consolidating CSS selectors and properties. Lastly CSS selectors and properties were re-structured to follow HTML elements  and a comments were included before each element or section of the page. 
+This webpage JavaScript code was incomplete and the generate password button was not working. New code was added, to jascript, that included making a user choose the lenght of the password. The user can also choose whether they want numbers, special characters, uppercase characters, and lowercase characters. All passwords are generated at random accordingly to what character choices the user wants included. After the choices are made the password will be displayed on the screen. 
 
 ## Links
 
-- [Live](https://tlequernaque.github.io/Horiseon-ch1/)
+- [Live](https://tlequernaque.github.io/My-Password-generator-ch3/)
 
 ## Screenshots
 
-![](Hsite-screenshot.png)
+![](./Images/password%20generator.png)
 
 ## Available Commands
 
@@ -19,6 +19,7 @@ N/A
 
 - HTML
 - CSS
+- JavaScript
 
 ## Future Updates
 
